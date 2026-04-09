@@ -1,0 +1,36 @@
+--- 
+title: "Health and Well-being"
+author: "Lizzie Kriz"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: 
+  bookdown::gitbook:
+    config:
+      sharing:
+        facebook: false
+        twitter: false
+documentclass: book
+bibliography: [bibliography.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: https://github.com/ericmkeen/bookdown_minimal
+description: "SDG 3: Good Health & Wellbeing."
+---
+# Introduction to SDG 3
+
+The UN's third sustainable development goal is to *ensure the healthy lives and promote well-being for all at all ages*(UN). This encompasses alot of issues, here are a few challenges the UN had chosen to focus on (WHO):
+
+ + Maternal mortality 
+ 
+ + Child mortality 
+ 
+ + Infectious diseases 
+ 
+ + Noncommunicable diseases 
+ 
+ + Substance abuse 
+
+Much of this SDG's focus is on Diseases that have historically devastated regions such as malaria, tuberculosis, and recovering the Covid epidemic falls under this umbrella as well. (Taikan et al, 2022)
+
+But it also focuses on epidemics that are emerging and are serious concerns when setting the standards for the developing world.
+

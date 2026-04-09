@@ -1,0 +1,20 @@
+# Obesity {#intro}
+
+My project will focus on **Noncommunicable diseases** which are chronic, 
+slow-progressing conditions NOT passed between people, like cardiovascular 
+diseases, cancer, obesity and diabetes. These diseases are responsible for over
+*74% of global deaths* and significantly impact individuals' *quality of life* (WHO).
+
+These ailments plague all countries in some way, but are particularly concerning
+because of their prevalence in developed countries(CDC)- it seems that many of these
+sicknesses may be the effect of new problems arising as we adapt and change our
+lifestyles and diet.
+
+Of these diseases, I would like to focus on **obesity**, it seems important to 
+understand how it takes hold in places with good food security and healthcare 
+systems to find a way to stop the spread of a new kind of disease in societies 
+that should set the standard.
+
+Obesity also has an arguably more powerful impact of devloping countries because of the "double burden" of disease where both malnutrition and obesity are prevalent in weak healthcare systems (WHO)
+
+

@@ -1,0 +1,20 @@
+# Avenues of exploration
+
+There are two main suspected factors of obesity (CDC): 
+
+ + Poor exercise 
+ 
+ and/or 
+ + Poor diet 
+ 
+However studies find that 'you can't outrun a bad diet' (Godoy, 2025)
+meaning the main contributor of this condition is controlled by the food market.
+This combined with the fact that obesity is a modern disease must mean that the 
+cause was introduced fairly recently. Here are some factors we will examine in
+relation to Obesity to investigate further (Our world on data):
+
+ + Diet (ratio of what foods)
+ + GDP
+ + Historical change
+ + Lifestyle
+ + Daily Calories available/consumed
